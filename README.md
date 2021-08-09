@@ -31,11 +31,14 @@ Trips by weekday by gender
 ![heatmap_gender](https://github.com/amburu4159/bikesharing/blob/main/images/heatmap_gender.PNG)
 ![trips_gender_byday](https://github.com/amburu4159/bikesharing/blob/main/images/trips_gender_byday.PNG)
 
+
+[link to dashboard]("https://public.tableau.com/app/profile/andrew.mburu8003/viz/Bikesharing_16284749342780/BikesharingReport?publish=yes")
+
 ## Summary - Recommendations
 
 	
 
-## Summary - Recommendations
+
 
  
 ### Additional queries to perform to gather more weather data for June and December
