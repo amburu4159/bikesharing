@@ -17,6 +17,11 @@ This image shows the raw numbers in the data set.
 ![Raw Numbers](https://github.com/amburu4159/bikesharing/blob/main/images/Raw_Numbers.PNG)
 
 
+This image shows the distribution per gender
+![gender_breakdown](https://github.com/amburu4159/bikesharing/blob/main/images/gender_breakdown.PNG)
+
+This image shows the trip duration for all riders
+![trip_duration_all](https://github.com/amburu4159/bikesharing/blob/main/images/trip_duration_all.PNG)
 
 	
 
