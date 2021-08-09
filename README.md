@@ -13,15 +13,25 @@ The purpose of our project is to see if the bike-sharing program is a solod busi
 •		Thursday is the busiest days where we see most rides booked.
 
 
-This image shows the raw numbers in the data set.
+This image shows the raw numbers in the data set
 ![Raw Numbers](https://github.com/amburu4159/bikesharing/blob/main/images/Raw_Numbers.PNG)
-
 
 This image shows the distribution per gender
 ![gender_breakdown](https://github.com/amburu4159/bikesharing/blob/main/images/gender_breakdown.PNG)
+•	65% were male while 25% were females.
 
 This image shows the trip duration for all riders
 ![trip_duration_all](https://github.com/amburu4159/bikesharing/blob/main/images/trip_duration_all.PNG)
+
+This image shows the trip duration per gender
+![trip_duration_gender](https://github.com/amburu4159/bikesharing/blob/main/images/trip_duration_gender.PNG)
+
+Trips by weekday by gender
+![heatmap_all](https://github.com/amburu4159/bikesharing/blob/main/images/heatmap_all.PNG)
+![heatmap_gender](https://github.com/amburu4159/bikesharing/blob/main/images/heatmap_gender.PNG)
+![trips_gender_byday](https://github.com/amburu4159/bikesharing/blob/main/images/trips_gender_byday.PNG)
+
+## Summary - Recommendations
 
 	
 
