@@ -12,6 +12,7 @@ The purpose of our project is to see if the bike-sharing program is a solod busi
 
 •		Thursday is the busiest days where we see most rides booked.
 
+[link to dashboard](https://public.tableau.com/app/profile/andrew.mburu8003/viz/Bikesharing_16284749342780/BikesharingReport?publish=yes)
 
 This image shows the raw numbers in the data set
 ![Raw Numbers](https://github.com/amburu4159/bikesharing/blob/main/images/Raw_Numbers.PNG)
@@ -32,14 +33,15 @@ Trips by weekday by gender
 ![trips_gender_byday](https://github.com/amburu4159/bikesharing/blob/main/images/trips_gender_byday.PNG)
 
 
-[link to dashboard](https://public.tableau.com/app/profile/andrew.mburu8003/viz/Bikesharing_16284749342780/BikesharingReport?publish=yes)
 
-## Summary - Recommendations
-
+## Summary 
+The data shows high bike sharing activity in New York for the month of August 2019. Majority of the riders were male and they were subscribers. Rush hour times, both in the morning and evening were the heaviest usage times. This suggests that riders look for alternative transportation to and from work, and bike sharing is a great alternative to personal or public commute.
 	
 
 
 
  
-### Additional queries to perform to gather more weather data for June and December
+### Future analysis:
+•	It would be beneficial to analyze different months to determine variances compared to August.
+•	Another analysis would be weather related. How weather affects the rides would certainly be worth analyzing.
 
