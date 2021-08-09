@@ -14,8 +14,10 @@ The purpose of our project is to see if the bike-sharing program is a solod busi
 
 [link to dashboard](https://public.tableau.com/app/profile/andrew.mburu8003/viz/Bikesharing_16284749342780/BikesharingReport?publish=yes)
 
+
 This image shows the raw numbers in the data set
 ![Raw Numbers](https://github.com/amburu4159/bikesharing/blob/main/images/Raw_Numbers.PNG)
+
 
 This image shows the distribution per gender
 ![gender_breakdown](https://github.com/amburu4159/bikesharing/blob/main/images/gender_breakdown.PNG)
@@ -24,8 +26,10 @@ This image shows the distribution per gender
 This image shows the trip duration for all riders
 ![trip_duration_all](https://github.com/amburu4159/bikesharing/blob/main/images/trip_duration_all.PNG)
 
+
 This image shows the trip duration per gender
 ![trip_duration_gender](https://github.com/amburu4159/bikesharing/blob/main/images/trip_duration_gender.PNG)
+
 
 Trips by weekday by gender
 ![heatmap_all](https://github.com/amburu4159/bikesharing/blob/main/images/heatmap_all.PNG)
@@ -38,9 +42,6 @@ Trips by weekday by gender
 The data shows high bike sharing activity in New York for the month of August 2019. Majority of the riders were male and they were subscribers. Rush hour times, both in the morning and evening were the heaviest usage times. This suggests that riders look for alternative transportation to and from work, and bike sharing is a great alternative to personal or public commute.
 	
 
-
-
- 
 ### Future analysis:
 •	It would be beneficial to analyze different months to determine variances compared to August.
 •	Another analysis would be weather related. How weather affects the rides would certainly be worth analyzing.
