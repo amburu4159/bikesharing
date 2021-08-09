@@ -45,5 +45,6 @@ personal or public commute.
 
 ### Future analysis:
 •	It would be beneficial to analyze different months to determine variances compared to August.
+
 •	Another analysis would be weather related. How weather affects the rides would certainly be worth analyzing.
 
