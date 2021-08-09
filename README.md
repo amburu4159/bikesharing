@@ -32,7 +32,7 @@ Trips by weekday by gender
 ![trips_gender_byday](https://github.com/amburu4159/bikesharing/blob/main/images/trips_gender_byday.PNG)
 
 
-[link to dashboard]("https://public.tableau.com/app/profile/andrew.mburu8003/viz/Bikesharing_16284749342780/BikesharingReport?publish=yes")
+[link to dashboard](https://public.tableau.com/app/profile/andrew.mburu8003/viz/Bikesharing_16284749342780/BikesharingReport?publish=yes)
 
 ## Summary - Recommendations
 
