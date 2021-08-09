@@ -39,7 +39,8 @@ Trips by weekday by gender
 
 
 ## Summary 
-The data shows high bike sharing activity in New York for the month of August 2019. Majority of the riders were male and they were subscribers. Rush hour times, both in the morning and evening were the heaviest usage times. This suggests that riders look for alternative transportation to and from work, and bike sharing is a great alternative to personal or public commute.
+The data shows high bike sharing activity in New York for the month of August 2019. Majority of the riders were male and they were subscribers. Rush hour times, both in the morning and evening were the heaviest usage times. This suggests that riders look for alternative transportation to and from work, and bike sharing is a great alternative to 
+personal or public commute.
 	
 
 ### Future analysis:
